@@ -24,6 +24,9 @@ Numerical resolution of the Schrödinger equations
 
 - Widget_Schrödinger_Dep :
  Time evolution of a wave packet: numerical resolution of the time-dependant Schrödinger equation.
- Push the 'compute' button after selection of the potential and its parameters 
- Once the simulation is complete (see the hourglass in the tab), you can use the time slider ou the player to see the wave packet evolution
+ 
+ Push the 'compute' button after selection of the potential and its parameters.
+ 
+ Once the simulation is complete (see the hourglass in the tab), you can use the time slider ou the player to see the wave packet evolution.
+ 
  !! If you want to change the potential and/or its parameters, press the 'hold' button first. Otherwise it will compute on the fly the new evolution as you change the parameters. !!!
