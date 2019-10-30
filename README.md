@@ -1,5 +1,5 @@
 # app_MQ_Physique3
-Numerical resolution of the Schrödinger equations
+Numerical resolution of the Schrödinger equations with python 
 - Clic on the binder icon to launch the jupyter notebooks ('.ipnyb' files) online  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ndardenne/app_MQ_Physique3/master)
 
