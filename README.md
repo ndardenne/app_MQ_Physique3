@@ -1,6 +1,6 @@
 # app_MQ_Physique3
 Numerical resolution of the Schrödinger equations
-- Clic on the binder icon to launch the jupyter notebooks ('.ipnyb' files) online  -  
+- Clic on the binder icon to launch the jupyter notebooks ('.ipnyb' files) online  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ndardenne/app_MQ/master)
 
 - Or download the apps and install the required packages listed in "requirement.yml". The easiest way is to install Anaconda (www.anaconda.com).
