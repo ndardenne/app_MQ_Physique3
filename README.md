@@ -5,7 +5,7 @@ Numerical resolution of the Schrödinger equations
 
 - Or download the apps and install the required packages listed in "requirement.yml". The easiest way is to install Anaconda (www.anaconda.com).
 
-- You can use either the "script" versions (procedural programming) or the "widget" versions (more object oriented and more interactive but could unstable...)
+- You can use either the "script" versions (procedural programming) or the "widget" versions (more object oriented and more interactive but could be unstable...)
 
 - For the script versions, execute each cell one at a time and respond to the prompt questions
 
